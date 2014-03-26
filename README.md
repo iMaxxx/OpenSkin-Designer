@@ -1,6 +1,7 @@
 OpenSkin Designer
 =================
-OpenSkin Designer is a further development of [e2skinner](https://code.google.com/p/e2skinner2/)
+OpenSkin Designer is a further development of [e2skinner](https://code.google.com/p/e2skinner2/).
+
 It includes a couple of new features i.e.:
 * Panels
 * Colored tree view
