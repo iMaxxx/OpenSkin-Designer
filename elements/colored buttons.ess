@@ -1,0 +1,6 @@
+<element>
+	<ePixmap pixmap="DMConcinnity-HD/buttons/red.png" position=" 0,0" size="35,27" alphatest="blend" />
+	<ePixmap pixmap="DMConcinnity-HD/buttons/green.png" position="40,0" size="35,27" alphatest="blend" />
+	<ePixmap pixmap="DMConcinnity-HD/buttons/yellow.png" position="80,0" size="35,27" alphatest="blend" />
+	<ePixmap pixmap="DMConcinnity-HD/buttons/blue.png" position="120,0" size="35,27" alphatest="blend" />
+</element>

@@ -1,0 +1,5 @@
+<element>
+	<widget source="global.CurrentTime" render="Label" position="0,0" size="85,25" font="Regular;23" halign="right" backgroundColor="black" transparent="1">
+	  <convert type="ClockToText">Default</convert>
+	</widget>
+</element>
