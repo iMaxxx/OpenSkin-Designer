@@ -11,6 +11,7 @@ It includes a couple of new features i.e.:
 * simple autocomplete in code
 * toggle conditional hiding element (show all, none, random, default)
 * toggle markers (border indicators of elements)
+* position replacement to center disabled
 * bugfixes
 * etc.
 
