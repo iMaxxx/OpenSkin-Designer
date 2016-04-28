@@ -1,0 +1,21 @@
+F:\_scintillaNET\bin\Debug\ScintillaNET.dll
+F:\_scintillaNET\bin\Debug\ScintillaNET.pdb
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.FindReplaceDialog.resources
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.IncrementalSearcher.resources
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.GoToDialog.resources
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.Properties.Resources.resources
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.SnippetChooser.resources
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.dll
+F:\_scintillaNET\ScintillaNET\obj\Debug\ScintillaNET.pdb
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\bin\Debug\ScintillaNET.dll
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\bin\Debug\ScintillaNET.pdb
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.csprojResolveAssemblyReference.cache
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.FindReplaceDialog.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.IncrementalSearcher.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.GoToDialog.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.Properties.Resources.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.SnippetChooser.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.csproj.GenerateResource.Cache
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.dll
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Debug\ScintillaNET.pdb

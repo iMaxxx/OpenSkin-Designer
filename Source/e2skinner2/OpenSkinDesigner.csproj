@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{453F9CBD-DEE1-43AB-920F-971472E2D04B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OpenSkinDesigner</RootNamespace>
+    <AssemblyName>OpenSkinDesigner</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ManifestCertificateThumbprint>4D01805CAE65F861C43BA8CB8CEBE06E36E3FE55</ManifestCertificateThumbprint>
+    <ManifestKeyFile>e2skinner2_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>Resources\OpenSkinDesigner.ico</ApplicationIcon>
+    <StartupObject>OpenSkinDesigner.Program</StartupObject>
+    <SignAssembly>true</SignAssembly>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>K:\Dropbox\Projekte\OpenSkinDesigner\Setup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://localhost/e2skinner2/</UpdateUrl>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>3.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frames\fAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fAbout.Designer.cs">
+      <DependentUpon>fAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\fFonts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fFonts.Designer.cs">
+      <DependentUpon>fFonts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\fOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fOpen.Designer.cs">
+      <DependentUpon>fOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\fPreferences.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fPreferences.Designer.cs">
+      <DependentUpon>fPreferences.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\fWindowstyle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fWindowstyle.Designer.cs">
+      <DependentUpon>fWindowstyle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\cCommandQueue.cs" />
+    <Compile Include="Logic\cDataBase.cs" />
+    <Compile Include="Logic\cDesigner.cs" />
+    <Compile Include="Logic\cProperties.cs" />
+    <Compile Include="Logic\cXMLHandler.cs" />
+    <Compile Include="Frames\fColors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fColors.Designer.cs">
+      <DependentUpon>fColors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frames\fResolution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frames\fResolution.Designer.cs">
+      <DependentUpon>fResolution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plattform.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Frames\fAbout.resx">
+      <DependentUpon>fAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fColors.resx">
+      <DependentUpon>fColors.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fFonts.resx">
+      <DependentUpon>fFonts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fOpen.resx">
+      <DependentUpon>fOpen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fPreferences.resx">
+      <DependentUpon>fPreferences.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fResolution.resx">
+      <DependentUpon>fResolution.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frames\fWindowstyle.resx">
+      <DependentUpon>fWindowstyle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="elements\colored buttons.ess">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="elements\current\current date.ess">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="elements\current\current time.ess">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\ae_AlMateen.license">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\ae_AlMateen.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\lcd.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\md_khmurabi_10.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\nmsbd.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\setrixHD.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="fonts\tuxtxt.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Structures\cConverter.cs" />
+    <Compile Include="Structures\cPreviewText.cs" />
+    <Compile Include="Structures\sAttributeListbox.cs" />
+    <Compile Include="Structures\cProperty.cs" />
+    <Compile Include="Structures\sAttribute.cs" />
+    <Compile Include="Structures\sAttributeLabel.cs" />
+    <Compile Include="Structures\sAttributePixmap.cs" />
+    <Compile Include="Structures\sAttributeProgress.cs" />
+    <Compile Include="Structures\sAttributeScreen.cs" />
+    <Compile Include="Structures\sAttributeWidget.cs" />
+    <Compile Include="Structures\sColor.cs" />
+    <Compile Include="Structures\sElementList.cs" />
+    <Compile Include="Structures\sFont.cs" />
+    <Compile Include="Structures\sGraphicElement.cs" />
+    <Compile Include="Structures\sGraphicFont.cs" />
+    <Compile Include="Structures\sGraphicImage.cs" />
+    <Compile Include="Structures\sGraphicLabel.cs" />
+    <Compile Include="Structures\sGraphicListbox.cs" />
+    <Compile Include="Structures\sGraphicPixmap.cs" />
+    <Compile Include="Structures\sGraphicProgress.cs" />
+    <Compile Include="Structures\sGraphicRectangel.cs" />
+    <Compile Include="Structures\sGraphicScreen.cs" />
+    <Compile Include="Structures\sGraphicWidget.cs" />
+    <Compile Include="Structures\sResolution.cs" />
+    <Compile Include="Structures\sWindowStyle.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveHH.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenSelectedItem.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openfolderHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="e2skinner2_TemporaryKey.pfx" />
+    <None Include="Properties\DataSources\e2skinner2.Logic.cProperties.datasource" />
+    <None Include="Properties\DataSources\e2skinner2.Structures.sAttribute.datasource" />
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 und x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\e2skinner2.Logic.cProperties1.datasource" />
+    <None Include="Resources\UnLock-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Frames\UserControls\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenHH.png" />
+    <None Include="Resources\SaveHH.png" />
+    <None Include="Resources\label.png" />
+    <None Include="Resources\pixmap.png" />
+    <None Include="Resources\widget.png" />
+    <None Include="bin\Release\skins\picon.png" />
+    <None Include="bin\Release\skins\xpicon.png" />
+    <None Include="bin\Release\skins\broken.png" />
+    <Content Include="OpenSkinDesigner.ico" />
+    <Content Include="PerfCenterCpl.ico" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\icon.png" />
+    <None Include="Resources\foldOff.png" />
+    <None Include="Resources\foldOn.png" />
+    <None Include="Resources\foldElementsOff.png" />
+    <None Include="Resources\foldElementsOn.png" />
+    <None Include="Resources\editroot.png" />
+    <None Include="Resources\addScreen.png" />
+    <None Include="Resources\addPanel.png" />
+    <Content Include="Resources\OpenSkinDesigner.ico" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\treeComment.png" />
+    <None Include="Resources\treePanel.png" />
+    <None Include="Resources\treeScreen.png" />
+    <None Include="Resources\treeX.png" />
+    <None Include="Resources\treeRoot.png" />
+    <None Include="Resources\treeSelected.png" />
+    <None Include="Resources\treeElement.png" />
+    <None Include="Resources\treeLabel.png" />
+    <None Include="Resources\treePixmap.png" />
+    <None Include="Resources\treeWidget.png" />
+    <Content Include="skins\background.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="skins\broken.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="skins\noprev.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="skins\picon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="skins\xpicon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xml\converter.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="xml\previewText.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Scintilla\ScintillaNET\ScintillaNET.csproj">
+      <Project>{f9b6dabd-bbc1-4638-8ce6-a5c9506bfdcb}</Project>
+      <Name>ScintillaNET</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

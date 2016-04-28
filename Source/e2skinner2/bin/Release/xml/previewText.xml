@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Known Datatypes: 'string' -->
+<!-- entry name='' is the name of the widget -->
+<screens>
+	<screen>
+		<name>menu_mainmenu</name>
+		<entries>
+			<entry name='menu' value='Item 1|Item 2|Item 3|Item 4' type='string'/>
+		</entries>
+	</screen>
+	<screen>
+		<name>About</name>
+		<entries>
+			<entry name='EnigmaVersion' value='Enigma: 01.01.2010' type='string'/>
+			<entry name='ImageVersion' value='Image: 02.01.2010' type='string'/>
+			<entry name='TunerHeader' value='Detected NIMs:' type='string'/>
+			<entry name='FPVersion' value='Frontprocessor version: 02' type='string'/>
+			<entry name='Tuner0' value='NIM - DVB-S2' type='string'/>
+			<entry name='Tuner1' value='NIM - DVB-S2' type='string'/>
+			<entry name='Tuner2' value='NIM - DVB-S2' type='string'/>
+			<entry name='Tuner3' value='NIM - DVB-S2' type='string'/>
+			<entry name='HDDHeader' value='Detected HDD:' type='string'/>
+			<entry name='hddA' value='none' type='string'/>
+		</entries>
+	</screen>
+	<screen>
+		<name>BouquetSelector</name>
+		<entries>
+			<entry name='menu' value='Skin 1|Skin 2|Skin 3|Skin 4' type='string'/>
+		</entries>
+	</screen>
+	<screen>
+		<name>MediaPlayer</name>
+		<entries>
+			<entry name='artisttext' value='Artist' type='string'/>
+			<entry name='titletext' value='Title' type='string'/>
+			<entry name='albumtext' value='Album' type='string'/>
+			<entry name='yeartext' value='Year' type='string'/>
+			<entry name='genretext' value='Genre' type='string'/>
+			
+			<entry name='title' value='Du Hast' type='string'/>
+			<entry name='artist' value='Rammstein' type='string'/>
+			<entry name='album' value='Du Hast' type='string'/>
+			<entry name='year' value='1997' type='string'/>
+			<entry name='genre' value='Neue Deutsche Haerte' type='string'/>
+			
+			<entry name='filelist' value='rammstein.du.hast.tr1.mp3|rammstein.du.hast.tr2.mp3|rammstein.du.hast.tr3.mp3' type='string'/>
+			<entry name='playlist' value='Track 1|Track 2|Track 3|Track 4' type='string'/>
+		</entries>
+	</screen>
+</screens>

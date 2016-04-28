@@ -1,0 +1,46 @@
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fAbout.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fColors.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fFonts.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fMain.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fOpen.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fPreferences.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fResolution.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Frames.fWindowstyle.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.Properties.Resources.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.csproj.GenerateResource.Cache
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.exe.manifest
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.exe
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.pdb
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\skins\background.jpg
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\skins\noprev.png
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\xml\converter.xml
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\xml\previewText.xml
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\elements\colored buttons.ess
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\elements\current\current date.ess
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\elements\current\current time.ess
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\ae_AlMateen.license
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\ae_AlMateen.ttf
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\lcd.ttf
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\md_khmurabi_10.ttf
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\nmsbd.ttf
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\tuxtxt.ttf
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\e2skinner2.exe.config
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\e2skinner2.exe.manifest
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\e2skinner2.application
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\e2skinner2.exe
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\e2skinner2.pdb
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\ScintillaNet.dll
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\ScintillaNet.pdb
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.application
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\e2skinner2.csprojResolveAssemblyReference.cache
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\fonts\setrixHD.ttf
+K:\Dropbox\Projekte\e2skinner\e2skinner2\bin\Debug\ScintillaNET.xml
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Properties.Resources.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fAbout.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fColors.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fFonts.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fMain.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fOpen.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fPreferences.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fResolution.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fWindowstyle.resources

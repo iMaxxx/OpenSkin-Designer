@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Known Datatypes: 'string', 'bool', 'int' -->
+<sources>
+  <source>
+    <name>global.CurrentTime</name>
+    <entries>
+      <entry name='time_sec' value='-2' type='int'/>
+    </entries>
+  </source>
+
+  <source>
+    <name>session.CurrentService</name>
+    <entries>
+      <entry name='service_name'   value='BBC World'     type='string'/>
+      <entry name='provider'       value='BBC Provider'  type='string'/>
+      <entry name='reference'      value='BBC Reference' type='string'/>
+
+      <entry name='videowidth'     value='1280' type='int'/>
+      <entry name='videoheight'    value='720'  type='int'/>
+
+      <entry name='hasteletext'             value='true'  type='bool'/>
+      <entry name='ismultichannel'          value='false' type='bool'/>
+      <entry name='iscrypted'               value='false' type='bool'/>
+      <entry name='iswidescreen'            value='true'  type='bool'/>
+      <entry name='subservicesavailable'    value='false' type='bool'/>
+
+      <entry name='type_length'     value='59400000' type='int'/>
+      <entry name='type_position'   value='40000000' type='int'/>
+    </entries>
+  </source>
+
+  <source>
+    <name>session.Event_Now</name>
+    <name>parent.ServiceEvent</name>
+    <entries>
+      <entry name='service_name'    value='Current Program' type='string'/>
+      
+      <entry name='event_starttime' value='8000' type='int'/>
+      <entry name='event_endtime'   value='9000' type='int'/>
+      <entry name='event_remaining' value='600'  type='int'/>
+      <entry name='event_duration'  value='600'  type='int'/>
+      <entry name='event_progress'  value='80'   type='int'/>
+    </entries>
+  </source>
+  
+  <source>
+    <name>session.Event_Next</name>
+    <entries>
+      <entry name='service_name'    value='Next Program' type='string'/>
+
+      <entry name='event_starttime' value='9000' type='int'/>
+      <entry name='event_endtime'   value='10000' type='int'/>
+      <entry name='event_remaining' value='600'  type='int'/>
+      <entry name='event_duration'  value='3600'  type='int'/>
+      <entry name='event_progress'  value='80'   type='int'/>
+    </entries>
+  </source>
+  
+  <source>
+    <name>session.FrontendStatus</name>
+    <name>Frontend</name>
+    <name>session.TunerInfo</name>
+    <name>session.FrontendInfo</name>
+    <name>FrontendInfo</name>
+    <entries>
+      <entry name='ber'  value='0'      type='int'/>
+      <entry name='snr'  value='95'     type='int'/>
+      <entry name='agc'  value='90'     type='int'/>
+      <entry name='lock' value='false'  type='bool'/>
+      <!-- -1 tofallbakc to snr -->
+      <entry name='snrdb' value='-1'    type='int'/>
+      <entry name='slot_number'   value='1'   type='int'/>
+      <!-- 0 s 1 c 3 t -1 unknown -->
+      <entry name='tuner_type'    value='0'   type='int'/>
+      <entry name='tunerusemask'  value='3'   type='int'/>
+    </entries>
+  </source>
+  
+  <source>
+    <name>ServiceEvent</name>
+    <name>Service</name>
+    <entries>
+      <entry name='time_sec' value='-2' type='int'/>
+      <entry name='service_name'  value='BBC World' type='string'/>
+      <entry name='event_name'  value='Living today' type='string'/>
+      <entry name='short_description'  value='Leaflets and phone messages ...' type='string'/>
+      <entry name='extended_description'  value='Leaflets and phone messages in Arabic urged Gaza residents to keep away from sites linked to Hamas, ...' type='string'/>
+      <entry name='event_starttime'  value='9000'   type='int'/>
+      <entry name='event_endtime'  value='10000'   type='int'/>
+      <entry name='event_remaining'  value='600'   type='int'/>
+      <entry name='MovieInfo'  value='Good Wife'   type='string'/>
+      <entry name='event_duration'  value='3600'   type='int'/>
+      <entry name='event_progress'  value='80'   type='int'/>
+    </entries>
+  </source>
+  
+  <source>
+    <name>Event</name>
+    <entries>
+      <entry name='service_name'  value='BBC Prime' type='string'/>
+      <entry name='event_name'  value='Living tomorrow' type='string'/>
+      <entry name='short_description'  value='Leaflets and phone messages ...' type='string'/>
+      <entry name='extended_description'  value='Leaflets and phone messages in Arabic urged Gaza residents to keep away from sites linked to Hamas, ...' type='string'/>
+      <entry name='event_starttime'  value='9000'   type='int'/>
+      <entry name='event_endtime'  value='10000'   type='int'/>
+      <entry name='event_remaining'  value='600'   type='int'/>
+      <entry name='event_duration"'  value='3600'   type='int'/>
+      <entry name='event_progress'  value='80'   type='int'/>
+    </entries>
+  </source>
+      
+</sources>

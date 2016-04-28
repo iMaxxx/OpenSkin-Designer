@@ -1,0 +1,11 @@
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\bin\Release\ScintillaNET.xml
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\bin\Release\ScintillaNET.dll
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\bin\Release\ScintillaNET.pdb
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.FindReplaceDialog.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.IncrementalSearcher.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.GoToDialog.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.Properties.Resources.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.SnippetChooser.resources
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.csproj.GenerateResource.Cache
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.dll
+K:\Dropbox\Projekte\Gigablue Pax\Scintilla\ScintillaNET\obj\Release\ScintillaNET.pdb

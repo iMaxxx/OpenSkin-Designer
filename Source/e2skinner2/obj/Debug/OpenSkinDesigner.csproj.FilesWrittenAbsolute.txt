@@ -1,0 +1,34 @@
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fAbout.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fColors.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fFonts.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fMain.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fOpen.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fPreferences.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fResolution.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Frames.fWindowstyle.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.Properties.Resources.resources
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.exe.licenses
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/elements/colored buttons.ess
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/elements/current/current date.ess
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/elements/current/current time.ess
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/ae_AlMateen.license
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/ae_AlMateen.ttf
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/lcd.ttf
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/md_khmurabi_10.ttf
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/nmsbd.ttf
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/setrixHD.ttf
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/fonts/tuxtxt.ttf
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/skins/background.jpg
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/skins/broken.png
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/skins/noprev.png
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/skins/picon.png
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/skins/xpicon.png
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/xml/converter.xml
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/xml/previewText.xml
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/OpenSkinDesigner.exe.config
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/OpenSkinDesigner.exe.mdb
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/OpenSkinDesigner.exe
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.exe
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/obj/Debug/OpenSkinDesigner.exe.mdb
+/Users/sinthernn/Dropbox/Projekte/OpenSkinDesigner/e2skinner2/bin/Release/ScintillaNET.dll

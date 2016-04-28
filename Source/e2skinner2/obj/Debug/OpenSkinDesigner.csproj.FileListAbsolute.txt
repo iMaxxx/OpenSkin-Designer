@@ -1,0 +1,72 @@
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fAbout.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fColors.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fFonts.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fMain.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fOpen.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fPreferences.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fResolution.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fWindowstyle.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.Properties.Resources.resources
+K:\Dropbox\Projekte\e2skinner\e2skinner2\obj\Debug\OpenSkinDesigner.csproj.GenerateResource.Cache
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fAbout.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fColors.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fFonts.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fMain.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fOpen.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fPreferences.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fResolution.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Frames.fWindowstyle.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.Properties.Resources.resources
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.csproj.GenerateResource.Cache
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\skins\background.jpg
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\skins\noprev.png
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\xml\converter.xml
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\xml\previewText.xml
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\elements\colored buttons.ess
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\elements\current\current date.ess
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\elements\current\current time.ess
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\ae_AlMateen.license
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\ae_AlMateen.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\lcd.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\md_khmurabi_10.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\nmsbd.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\setrixHD.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\fonts\tuxtxt.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\OpenSkinDesigner.exe.config
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\OpenSkinDesigner.exe.manifest
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\OpenSkinDesigner.application
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\OpenSkinDesigner.exe
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\OpenSkinDesigner.pdb
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\ScintillaNET.dll
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\ScintillaNET.pdb
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Debug\ScintillaNET.xml
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.exe.manifest
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.application
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.exe
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.pdb
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.exe.licenses
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\skins\background.jpg
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\skins\noprev.png
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\xml\converter.xml
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\xml\previewText.xml
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\elements\colored buttons.ess
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\elements\current\current date.ess
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\elements\current\current time.ess
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\ae_AlMateen.license
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\ae_AlMateen.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\lcd.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\md_khmurabi_10.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\nmsbd.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\setrixHD.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\fonts\tuxtxt.ttf
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\OpenSkinDesigner.exe.config
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\OpenSkinDesigner.exe.manifest
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\OpenSkinDesigner.application
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\OpenSkinDesigner.exe
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\OpenSkinDesigner.pdb
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\ScintillaNET.dll
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\ScintillaNET.pdb
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\obj\Debug\OpenSkinDesigner.csprojResolveAssemblyReference.cache
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\skins\broken.png
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\skins\picon.png
+K:\Dropbox\Projekte\OpenSkinDesigner\e2skinner2\bin\Release\skins\xpicon.png
